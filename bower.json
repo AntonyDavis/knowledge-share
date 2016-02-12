@@ -1,0 +1,17 @@
+{
+  "name": "pluralsight-rotate-6",
+  "version": "0.0.1",
+  "authors": [
+    "Davis",
+    "Antony <Antony.Davis@fisglobal.com>"
+  ],
+  "main": "rotate.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
